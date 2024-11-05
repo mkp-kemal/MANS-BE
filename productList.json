@@ -1,0 +1,16 @@
+[
+  {
+    "barcode": "001",
+    "name": "Panadol",
+    "unit": "btl",
+    "price": "15000",
+    "stock": "2"
+  },
+  {
+    "barcode": "002",
+    "name": "Paramex",
+    "unit": "tblt",
+    "price": "5000",
+    "stock": "5"
+  }
+]
